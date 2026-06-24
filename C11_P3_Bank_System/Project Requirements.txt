@@ -1,0 +1,31 @@
+@requirements
+* Find Client ✅
+* Update Client ✅
+* Add New Client ✅
+* Delete Client ✅
+* List Clients ✅
+* Total Balance ✅
+* Main Menu ✅ - List Clients Screen ✅ - Add New Client Screen ✅ - Delete Client Screen ✅ - Update Client Screen ✅ - Find Client Screen ✅
+* Transactions Menu ✅ - Transactions Screen ✅ - Deposit Screen ✅ - Withdraw Screen ✅ - Total Balance Screen ✅ - Go back to main menu ✅
+* Manage Users Menu ✅ - Prepare User Class ✅ - List Users Screen ✅ - Add New User Screen ✅ - Delete User Screen ✅ - Update User Screen ✅ - Find User Screen ✅
+* Login And Permissions (login ✅ - logout ✅ - show login screen at logout ✅ - apply permissions ✅)
+* Extension 1 - Add Date and Logged In User to All Screens ✅
+* Extension 2 - Lock the System After 3 failed Logins ✅
+* Extension 3 - Register Logins In a Log File ✅
+* Extension 4 - Show Login Register Screen ✅
+* Extension 5 - Permission to Show Log Register Screen ✅
+* Extension 6 - Transfer Screen ✅
+* Extension 7 - Create Transfer Log ✅
+* Extension 8 - Show Transfers Log Screen ✅
+* Extension 9 - Encrypt Password In File ✅
+* Extension 10- Abstract Class/Interface Practical Example ✅
+* Project 4:Currency Exchange: Project Overview (8:54)
+* Project 4: Currency Exchange 01: Prepare Currency Object (16:34)
+* Project 4: Currency Exchange 02: Currency Main Screen (3:40)
+* Project 4: Currency Exchange 03: Currencies List Screen (2:28)
+* Project 4: Currency Exchange 04: Find Currency (3:23)
+* Project 4: Currency Exchange 05: Update Currency Rate (3:03)
+* Project 4: Currency Exchange 06: Currency Calculator Screen (6:32)
+* Template Functions & Classes: Template Functions (3:24),Template Classes (5:53)
+* Organize Classes and Header Files: Organize Your Classes (3:49)
+
