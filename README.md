@@ -1,4 +1,5 @@
 # Bank Management & Currency Exchange System 🏦💱
+[![Watch the Demo](Thumbnail.png)](https://youtu.be/kBqSBB8qFhI)
 
 ## 📌 Overview
 
@@ -32,4 +33,4 @@ A comprehensive C++ console application that simulates a real-world banking envi
 1. Clone the repository:
 
 ```bash
-   git clone [https://github.com/iabdlrhmn/C11_P3_Bank_System](https://github.com/iabdlrhmn/C11_P3_Bank_System)
+   git clone https://github.com/iabdlrhmn/C11_P3_Bank_System
