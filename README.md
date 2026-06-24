@@ -1,9 +1,5 @@
 # Bank Management & Currency Exchange System 🏦💱
-<p align="center">
-  <a href="https://youtu.be/kBqSBB8qFhI" target="_blank">
-    <img src="Thumbnail.png" alt="Bank Management & Currency Exchange System" width="900">
-  </a>
-</p>
+[![Watch the video](Thumbnail.png)](https://youtu.be/kBqSBB8qFhI)
 ## 📌 Overview
 
 A comprehensive C++ console application that simulates a real-world banking environment and currency exchange module. This project was built to apply advanced **Object-Oriented Programming (OOP)** principles, secure file handling, and solid backend logical structuring.
